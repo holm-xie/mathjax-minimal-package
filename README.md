@@ -1,6 +1,6 @@
 # MathJax minimal package
 
-This repo contains the code examples used in the article https://tiborsimon.io/web/minimal-mathjax-package/. The articles main goal was to illustrate a method to reduce the original 180MB package size of MathJAX. I could achieve a 99.6% size reduction by using only __LaTEX__ input and __Common HTML__ output.
+This repo contains the code examples used in the article https://tiborsimon.io/web/minimal-mathjax-package/. The article's main goal was to illustrate a method to reduce the original 180MB package size of MathJAX. I could achieve a 99.6% size reduction by using only __LaTEX__ input and __Common HTML__ output. The final MathJAX package I use is __623KB__ on disk.
 
 This repo contains the _MathJAX 2.6.1_ full package, and the reduced one, that is used by the example `test.html` file.
 
